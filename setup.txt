@@ -1,0 +1,4 @@
+Setup snowpack:
+  npx create-snowpack-app . --template @snowpack/app-template-blank-typescript --force
+
+Comment out the isolatedModules property in tsconfig.json file
